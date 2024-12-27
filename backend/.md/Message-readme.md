@@ -1,4 +1,4 @@
-# Chat API Documentation
+# Message API Documentation
 
 ## Base URL
 ```
